@@ -1,0 +1,45 @@
+[17-Dec-2013 13:19:48 America/Chicago] ------------------------------------------------------
+[17-Dec-2013 13:19:48 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "0"</pre> - /buyer/product/view
+[17-Dec-2013 13:20:25 America/Chicago] ------------------------------------------------------
+[17-Dec-2013 13:20:25 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "1"</pre> - /buyer/product/view
+[19-Dec-2013 01:49:47 America/Chicago] ------------------------------------------------------
+[19-Dec-2013 01:49:47 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "1"</pre> - /buyer/product/view
+[19-Dec-2013 02:19:46 America/Chicago] ------------------------------------------------------
+[19-Dec-2013 02:19:46 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "1"</pre> - /buyer/product/view
+[19-Dec-2013 08:32:44 America/Chicago] ------------------------------------------------------
+[19-Dec-2013 08:32:44 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "1"</pre> - /buyer/product/view
+[19-Dec-2013 08:36:45 America/Chicago] ------------------------------------------------------
+[19-Dec-2013 08:36:45 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "2"</pre> - /buyer/product/view
+[19-Dec-2013 08:38:37 America/Chicago] ------------------------------------------------------
+[19-Dec-2013 08:38:37 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "2"</pre> - /buyer/product/view
+[19-Dec-2013 08:50:28 America/Chicago] ------------------------------------------------------
+[19-Dec-2013 08:50:28 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "2"</pre> - /buyer/product/view
+[19-Dec-2013 14:16:39 America/Chicago] ------------------------------------------------------
+[19-Dec-2013 14:16:39 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "2"</pre> - /buyer/product/view
+[19-Dec-2013 14:19:51 America/Chicago] ------------------------------------------------------
+[19-Dec-2013 14:19:51 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "2"</pre> - /buyer/product/view
+[19-Dec-2013 14:19:54 America/Chicago] ------------------------------------------------------
+[19-Dec-2013 14:19:54 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "2"</pre> - /buyer/product/view
+[19-Dec-2013 14:19:55 America/Chicago] ------------------------------------------------------
+[19-Dec-2013 14:19:55 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "2"</pre> - /buyer/product/view
+[19-Dec-2013 14:19:57 America/Chicago] ------------------------------------------------------
+[19-Dec-2013 14:19:57 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "2"</pre> - /buyer/product/view
+[19-Dec-2013 14:19:57 America/Chicago] ------------------------------------------------------
+[19-Dec-2013 14:19:57 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "2"</pre> - /buyer/product/view
+[19-Dec-2013 14:20:55 America/Chicago] ------------------------------------------------------
+[19-Dec-2013 14:20:55 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "2"</pre> - /buyer/product/view
+[19-Dec-2013 15:08:21 America/Chicago] ------------------------------------------------------
+[19-Dec-2013 15:08:21 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "3"</pre> - /buyer/product/view
+[19-Dec-2013 15:17:49 America/Chicago] ------------------------------------------------------
+[19-Dec-2013 15:17:49 America/Chicago] user gateways - <pre class="debug"><small>string</small><span>(1)</span> "3"</pre> - /buyer/product/view
+[03-Jan-2014 06:23:27 America/Chicago] ------------------------------------------------------
+[03-Jan-2014 06:23:27 America/Chicago] deactivate post - <pre class="debug"><small>array</small><span>(8)</span> <span>(
+    "SubscriptionIsTest" => <small>string</small><span>(4)</span> "true"
+    "SubscriptionEndDate" => <small>string</small><span>(11)</span> "Feb 2, 2014"
+    "SubscriptionReference" => <small>string</small><span>(21)</span> "SMP140103-9888-24152S"
+    "SubscriptionQuantity" => <small>string</small><span>(1)</span> "1"
+    "customer_ref" => <small>string</small><span>(1)</span> "2"
+    "SubscriptionCustomerUrl" => <small>string</small><span>(65)</span> "https://sites.fastspring.com/smplle/order/s/SMP140103-9888-79153S"
+    "security_data" => <small>string</small><span>(34)</span> "1388739325730SMP140103-9888-24152S"
+    "security_hash" => <small>string</small><span>(32)</span> "1c3cca9b6f8bede01b04eff74145ae4c"
+)</span></pre> - //fastspring/deactivate

@@ -1,0 +1,80 @@
+/* Управление фотографиями  */
+#photos {
+
+}
+
+#photos .photo {
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    cursor: move;
+    position: relative;
+}
+
+#photos .photo .close {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    background: url(/themes/images/cross_16.png) no-repeat;
+    cursor: pointer;
+    display: none;
+    top: 0;
+    right: 0;
+}
+
+#photos .photo:hover .close {
+    opacity: 0.8;
+    display: block;
+}
+
+#photos .photo .close:hover {
+    opacity: 1;
+    display: block;
+}
+
+#photos .photo .setmain {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    background: url(/themes/images/widescreen.png) no-repeat;
+    cursor: pointer;
+    display: none;
+    top: 0;
+    right: 20px;
+}
+
+#photos .photo:hover .setmain {
+    opacity: 0.8;
+    display: block;
+}
+
+#photos .photo .setmain:hover:before, #photos .photo .close:hover:before {
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    content: "Установить основной фотографией";
+    left: -103px;
+    position: absolute;
+    top: 18px;
+    padding: 5px 0;
+    width: 215px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: normal;
+    z-index: 999;
+}
+
+#photos .photo .close:hover:before {
+    content: "Удалить фото";
+    width: 100px;
+    left: -50px;
+}
+
+#photos .photo .setmain:hover {
+    opacity: 1;
+    display: block;
+}

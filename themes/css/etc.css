@@ -1,0 +1,38 @@
+#loadcontent-container {
+    position: relative;
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 10px 0;
+    display: none;
+}
+
+#loadcontent-container h2, #loadcontent-container h3 {
+    font-size: 15px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.closecontent {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+.loadcontent {
+    cursor: pointer;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    background-position: center center;
+    background-size: cover;
+    border: 1px solid #ccc;
+    margin: 3px;
+    float: left;
+}
+
+#pages a {
+	float: left;
+	margin-left: 5px;
+}

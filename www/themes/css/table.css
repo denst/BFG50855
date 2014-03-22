@@ -1,0 +1,133 @@
+/* tables */
+table.tablesorter {
+/*	background-color: #CDCDCD;*/
+	margin:10px 0pt 15px;
+	font-size: 9pt;
+	width: 100%;
+	text-align: left;
+    height: auto;
+}
+
+table.tablesorter thead tr th, table.tablesorter tfoot tr th {
+	background-color: white;
+/*	background-color: #F5F5F5;*/
+	border: 1px solid #ccc;
+	padding: 4px;
+    font-weight: normal;
+}
+
+table.tablesorter thead tr .header {
+	background-image: url(bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+
+table.tablesorter tbody tr:last-child {
+    border-bottom: 1px solid #ccc;
+}
+
+table.tablesorter tbody tr.selected {
+    background-color: #E3E3E3 !important;
+}
+
+table.tablesorter tbody td {
+	color: #3D3D3D;
+	padding: 7px;
+	vertical-align: top;
+    border-right: 1px solid #EAEAEA;
+}
+
+table.tablesorter tbody td:first-child {
+    border-left: 1px solid #EAEAEA;
+}
+
+table.tablesorter tbody tr.odd {
+/*	background-color: #F0F0F0;*/
+/*    background-color: #EEF3FF;*/
+    border-bottom: 1px solid #EAEAEA;
+    margin-bottom: 5px;
+}
+
+table.tablesorter tbody tr.even {
+/*	background-color: white;*/
+    border-bottom: 1px solid #EAEAEA;
+    margin-bottom: 5px;
+}
+
+table.tablesorter thead tr .headerSortUp {
+	background-image: url(asc.gif);
+}
+table.tablesorter thead tr .headerSortDown {
+	background-image: url(desc.gif);
+}
+table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp {
+background-color: #8dbdd8;
+}
+
+table.tablesorter tbody tr td {
+	vertical-align: middle;
+}
+
+
+
+/* Light table skin */
+table.light-table {
+	margin: 10px 0;
+	font-size: 9pt;
+	width: 100%;
+	text-align: left;
+}
+
+table.light-table thead tr th, table.light-table tfoot tr th {
+	background-color: white;
+	border: 1px solid #eee;
+	border-bottom: 1px solid #ddd;
+	padding: 4px;
+    font-weight: normal;
+    text-align: center;
+}
+
+table.light-table tbody tr:first-child {
+    border-top: 1px solid #eee;
+}
+
+table.light-table tbody tr {
+    border-bottom: 1px solid #eee;
+}
+
+table.light-table tbody td {
+	color: #3D3D3D;
+	padding: 7px;
+	vertical-align: top;
+    border-right: 1px solid #eee;
+}
+
+table.light-table tbody td:first-child {
+    border-left: 1px solid #eee;
+}
+
+table.light-table tbody tr.odd {
+	background-color: #F0F0F0;
+}
+
+table.light-table tbody tr.even {
+	background-color: white;
+}
+
+table.light-table tbody tr td {
+	vertical-align: middle;
+}
+
+table.light-table input[type="text"],
+table.light-table input[type="password"],
+table.light-table input[type="file"],
+table.light-table textarea
+{
+    width: 97%;
+    border: 1px solid #ccc;
+    padding: 3px;
+}
+
+
+
